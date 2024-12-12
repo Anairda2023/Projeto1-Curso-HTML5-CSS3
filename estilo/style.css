@@ -1,0 +1,23 @@
+@charset "etf-8";
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Playwrite+HR+Lijeva:wght@100..400&family=Quicksand:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body{
+    background-color: rgb(230, 181, 181);
+}
+h1{
+ font-family: 'Orbitron', sans-serif;
+}
+
+header{
+    text-align: center;
+    padding-top: 40px;
+    background-color: aqua;
+    min-height: 150px;
+    
+}
